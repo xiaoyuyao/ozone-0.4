@@ -11,8 +11,7 @@
 <property><name>ozone.scm.datanode.id</name><value>/data/disk1/datanode.id</value></property>
 <property><name>ozone.replication</name><value>3</value></property>
 <property><name>hdds.db.profile></name><value>SSD</value></property>
-<property><name>ozone.metadata.dirs</name><value>/data/disk1/metadata</value></property>
-<property><name>hdds.datanode.dir</name><value>/data/disk1/storage,/data/disk2/storage</value></property>
+<!--<property><name>ozone.metadata.dirs</name><value>/data/disk2/metadata</value></property>-->
 </properties>
 </configuration>
 
